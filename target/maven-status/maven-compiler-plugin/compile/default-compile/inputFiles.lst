@@ -1,0 +1,12 @@
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/healthcheck/HealthCheckController.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/resources/ContactResource.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/dao/ContactDAO.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/healthcheck/AppHealthCheck.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/representations/Contact.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/auth/User.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/App.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/PhonebookAuthenticator.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/auth/AppAuthorizer.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/PhonebookConfiguration.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/dao/mappers/ContactMapper.java
+/home/abhishek/Documents/YML/drop-wizard-workspace/dw-sample/src/main/java/com/yml/dwsample/dw_sample/resources/ClientResource.java

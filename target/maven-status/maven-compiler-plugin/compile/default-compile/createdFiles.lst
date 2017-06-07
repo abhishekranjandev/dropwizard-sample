@@ -1,0 +1,12 @@
+com/yml/dwsample/dw_sample/PhonebookAuthenticator.class
+com/yml/dwsample/dw_sample/auth/AppAuthorizer.class
+com/yml/dwsample/dw_sample/App.class
+com/yml/dwsample/dw_sample/resources/ContactResource.class
+com/yml/dwsample/dw_sample/resources/ClientResource.class
+com/yml/dwsample/dw_sample/auth/User.class
+com/yml/dwsample/dw_sample/dao/mappers/ContactMapper.class
+com/yml/dwsample/dw_sample/PhonebookConfiguration.class
+com/yml/dwsample/dw_sample/healthcheck/HealthCheckController.class
+com/yml/dwsample/dw_sample/healthcheck/AppHealthCheck.class
+com/yml/dwsample/dw_sample/representations/Contact.class
+com/yml/dwsample/dw_sample/dao/ContactDAO.class

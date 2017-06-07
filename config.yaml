@@ -1,0 +1,8 @@
+message: This is a message defined in the file config.yaml
+messageRepetitions: 3
+database:
+    driverClass: com.mysql.jdbc.Driver
+    user: phonebookuser
+    password: phonebookpassword
+    url: jdbc:mysql://localhost/phonebook
+
