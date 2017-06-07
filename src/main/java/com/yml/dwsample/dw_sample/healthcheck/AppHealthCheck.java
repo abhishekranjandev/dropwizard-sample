@@ -20,7 +20,7 @@ public class AppHealthCheck extends HealthCheck {
 
 	@Override
 	protected Result check() throws Exception {
-		WebTarget webTarget = client.target("http://localhost:8080/employees");
+		WebTarget webTarget = client.target("http://localhost:8080/contacts");
 		Invocation.Builder invocationBuilder =  webTarget.request(MediaType.APPLICATION_JSON);
 		Response response = invocationBuilder.get();
 		@SuppressWarnings("rawtypes")
